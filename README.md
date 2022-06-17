@@ -17,3 +17,7 @@ In this lab, we will perform some Exploratory Data Analysis (EDA) to find some p
 Lab 4: Exploratory Data Analysis Using SQL
 
 Lab 5: Exploratory Data Analysis Using Visualization Tools
+
+Lab 6: Interactive Visual Analytics Using Folium
+
+Lab 7: Interactive Dashboard with Plotly Dash
