@@ -21,3 +21,5 @@ Lab 5: Exploratory Data Analysis Using Visualization Tools
 Lab 6: Interactive Visual Analytics Using Folium
 
 Lab 7: Interactive Dashboard Using Plotly Dash
+
+Lab 8: Machine Learning Prediction
