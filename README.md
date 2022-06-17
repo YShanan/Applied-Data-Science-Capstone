@@ -23,3 +23,7 @@ Lab 6: Interactive Visual Analytics Using Folium
 Lab 7: Interactive Dashboard Using Plotly Dash
 
 Lab 8: Machine Learning Prediction
+
+Final Presentation
+
+The final presentation includes a summary of all performed labs.
